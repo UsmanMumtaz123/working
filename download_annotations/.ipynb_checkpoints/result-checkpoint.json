@@ -1,0 +1,183 @@
+{
+  "images": [
+    {
+      "width": 385,
+      "height": 551,
+      "id": 0,
+      "file_name": "images\\4/5240c4ae-Capture.JPG"
+    },
+    {
+      "width": 390,
+      "height": 498,
+      "id": 1,
+      "file_name": "images\\4/446ab7ac-5.JPG"
+    },
+    {
+      "width": 377,
+      "height": 323,
+      "id": 2,
+      "file_name": "images\\4/223ba554-4.JPG"
+    },
+    {
+      "width": 382,
+      "height": 469,
+      "id": 3,
+      "file_name": "images\\4/ef9c53f5-3.JPG"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "BibItem"
+    },
+    {
+      "id": 1,
+      "name": "BibItem1"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        120,
+        28,
+        154,
+        46
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 7084
+    },
+    {
+      "id": 1,
+      "image_id": 0,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        46,
+        340,
+        117,
+        51
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 5967
+    },
+    {
+      "id": 2,
+      "image_id": 0,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        230,
+        337,
+        133,
+        109
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 14497
+    },
+    {
+      "id": 3,
+      "image_id": 1,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        84,
+        6,
+        261,
+        25
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 6525
+    },
+    {
+      "id": 4,
+      "image_id": 1,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        207,
+        410,
+        161,
+        40
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 6440
+    },
+    {
+      "id": 5,
+      "image_id": 2,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        85,
+        6,
+        231,
+        45
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 10395
+    },
+    {
+      "id": 6,
+      "image_id": 2,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        201,
+        237,
+        163,
+        59
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 9617
+    },
+    {
+      "id": 7,
+      "image_id": 3,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        108,
+        20,
+        264,
+        35
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 9240
+    },
+    {
+      "id": 8,
+      "image_id": 3,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        198,
+        352,
+        147,
+        60
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 8820
+    }
+  ],
+  "info": {
+    "year": 2022,
+    "version": "1.0",
+    "description": "",
+    "contributor": "Label Studio",
+    "url": "",
+    "date_created": "2022-10-22 05:33:00.560520"
+  }
+}

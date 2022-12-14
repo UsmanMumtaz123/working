@@ -1,0 +1,60 @@
+{
+  "annotations": [
+    {
+      "area": 10395,
+      "bbox": [
+        85,
+        6,
+        231,
+        45
+      ],
+      "category_id": 0,
+      "id": 5,
+      "ignore": 0,
+      "image_id": 2,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "area": 9617,
+      "bbox": [
+        201,
+        237,
+        163,
+        59
+      ],
+      "category_id": 1,
+      "id": 6,
+      "ignore": 0,
+      "image_id": 2,
+      "iscrowd": 0,
+      "segmentation": []
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "BibItem"
+    },
+    {
+      "id": 1,
+      "name": "BibItem1"
+    }
+  ],
+  "images": [
+    {
+      "file_name": "images\\4/223ba554-4.JPG",
+      "height": 323,
+      "id": 2,
+      "width": 377
+    }
+  ],
+  "info": {
+    "contributor": "Label Studio",
+    "date_created": "2022-10-22 05:33:00.560520",
+    "description": "",
+    "url": "",
+    "version": "1.0",
+    "year": 2022
+  }
+}

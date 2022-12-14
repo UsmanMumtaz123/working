@@ -1,0 +1,147 @@
+{
+  "annotations": [
+    {
+      "area": 7084,
+      "bbox": [
+        120,
+        28,
+        154,
+        46
+      ],
+      "category_id": 0,
+      "id": 0,
+      "ignore": 0,
+      "image_id": 0,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "area": 5967,
+      "bbox": [
+        46,
+        340,
+        117,
+        51
+      ],
+      "category_id": 1,
+      "id": 1,
+      "ignore": 0,
+      "image_id": 0,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "area": 14497,
+      "bbox": [
+        230,
+        337,
+        133,
+        109
+      ],
+      "category_id": 1,
+      "id": 2,
+      "ignore": 0,
+      "image_id": 0,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "area": 6525,
+      "bbox": [
+        84,
+        6,
+        261,
+        25
+      ],
+      "category_id": 0,
+      "id": 3,
+      "ignore": 0,
+      "image_id": 1,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "area": 6440,
+      "bbox": [
+        207,
+        410,
+        161,
+        40
+      ],
+      "category_id": 1,
+      "id": 4,
+      "ignore": 0,
+      "image_id": 1,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "area": 9240,
+      "bbox": [
+        108,
+        20,
+        264,
+        35
+      ],
+      "category_id": 0,
+      "id": 7,
+      "ignore": 0,
+      "image_id": 3,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "area": 8820,
+      "bbox": [
+        198,
+        352,
+        147,
+        60
+      ],
+      "category_id": 1,
+      "id": 8,
+      "ignore": 0,
+      "image_id": 3,
+      "iscrowd": 0,
+      "segmentation": []
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "BibItem"
+    },
+    {
+      "id": 1,
+      "name": "BibItem1"
+    }
+  ],
+  "images": [
+    {
+      "file_name": "images\\4/5240c4ae-Capture.JPG",
+      "height": 551,
+      "id": 0,
+      "width": 385
+    },
+    {
+      "file_name": "images\\4/446ab7ac-5.JPG",
+      "height": 498,
+      "id": 1,
+      "width": 390
+    },
+    {
+      "file_name": "images\\4/ef9c53f5-3.JPG",
+      "height": 469,
+      "id": 3,
+      "width": 382
+    }
+  ],
+  "info": {
+    "contributor": "Label Studio",
+    "date_created": "2022-10-22 05:33:00.560520",
+    "description": "",
+    "url": "",
+    "version": "1.0",
+    "year": 2022
+  }
+}
